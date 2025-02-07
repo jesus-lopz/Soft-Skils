@@ -1,6 +1,6 @@
 # Soft-Skils
 
-1. Comunicación.
+*COMUNICACIÓN*
 
 La capacidad para comunicarse de manera clara y efectiva es esencial para compartir ideas, colaborar en equipo y comprender los requisitos de los clientes o usuarios.
 
@@ -9,7 +9,7 @@ Tareas para mejorar la comunicación:
 - Escribir documentación técnica: Dedica tiempo a escribir documentación clara y concisa para que otros desarrolladores puedan entender fácilmente tu código.
 - Realizar presentaciones: Practica explicar conceptos técnicos complejos a personas no técnicas, como en una charla o presentación.
 
-2. Trabajo en equipo.
+*TRABAJO EN EQUIPO*
 
 La colaboración con otros programadores, diseñadores y partes interesadas en un proyecto es clave para lograr buenos resultados.
 
@@ -18,7 +18,7 @@ Tareas para mejorar el trabajo en equipo:
 - Revisar código de otros: Ayudar a otros con la revisión de su código es una buena práctica para fomentar la colaboración.
 - Usar herramientas de gestión de proyectos: Familiarízate con plataformas como Jira, Trello o Asana, que facilitan la colaboración y el seguimiento del progreso de equipo.
 
-3. Resolución de problemas.
+*RESOLUCIÓN DE PROBLEMAS*
 
 El pensamiento crítico y la capacidad para resolver problemas complejos son esenciales en programación, ya que los desarrolladores enfrentan retos y errores constantemente.
 
@@ -27,7 +27,7 @@ Tareas para mejorar la resolución de problemas:
 - Analizar y refactorizar código: Toma código existente y trata de encontrar formas más eficientes de hacerlo funcionar.
 - Desarrollar pequeños proyectos personales: Crea tus propios proyectos y enfrenta problemas que debes resolver de manera creativa.
 
-4. Adaptabilidad.
+*ADAPTABILIDAD*
 
 La tecnología cambia constantemente, y como programador, es necesario adaptarse rápidamente a nuevas herramientas, lenguajes y metodologías.
 
